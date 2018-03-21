@@ -25,3 +25,5 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 ### Online article
 * Gaussian Processes
   + [http://efavdb.com/gaussian-processes/](http://efavdb.com/gaussian-processes/#mjx-eqn-posterior)
+  + [http://bridg.land/posts/gaussian-processes-1](http://bridg.land/posts/gaussian-processes-1)
+  
