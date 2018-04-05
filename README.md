@@ -22,6 +22,7 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 * Shai Shalev-Shwartz and Shai Ben-David, *Understanding Machine Learning: From Theory to Algorithms*: [[link]](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 * Carl Edward Rasmussen and Christopher K. I. Williams, *Gaussian Processes for Machine Learning*: [[link]](http://www.gaussianprocess.org/gpml/)
 * Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction*: [[link]](http://incompleteideas.net/book/the-book-2nd.html)
+* Ian Goodfellow, Yoshua Bengio and Aaron Courville, *Deep Learning*: [[link]](http://www.deeplearningbook.org/)
 
 ### Online article
 * Gaussian Processes
