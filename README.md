@@ -40,6 +40,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
   + [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
 * Deep RL Bootcamp, Berkeley CA, 26-27 August 2017
   + [https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* Columbia University IEOR 8100: Reinforcement Learning by Shipra Agrawal (not video, but useful)
+  + [https://ieor8100.github.io/rl/](https://ieor8100.github.io/rl/)
 
 ### Online book
 * Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction*: [[link]](http://incompleteideas.net/book/the-book-2nd.html)
