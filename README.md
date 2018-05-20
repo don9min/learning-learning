@@ -31,9 +31,11 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 ## Reinforcement Learning
 
 ### Online video lectures
-* Joelle Pineau's lecture
+* Reinforcement Learning: Basic concepts - Joelle Pineau
   + [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/?q=reinforcement%20learning)
   + [CIFAR Reinforcement Learning Summer School 2017](http://videolectures.net/deeplearning2017_pineau_reinforcement_learning/?q=reinforcement%20learning)
+* Policy Search for RL - Pieter Abbeel
+  + [CIFAR Reinforcement Learning Summer School 2017](http://videolectures.net/deeplearning2017_abbeel_policy_search/)
 * David Silver's lecture
   + [Tutorial: Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning/?q=reinforcement%20learning)
 * UC Berkeley CS 294: Deep Reinforcement Learning
