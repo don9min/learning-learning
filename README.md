@@ -54,6 +54,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 * Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction*: [[link]](http://incompleteideas.net/book/the-book-2nd.html)
 
 ### Online article
+* Deep Reinforcement Learning
+  + [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](karpathy.github.io/2016/05/31/rl/)
 * Model-based Reinforcement Learning
   + [https://deepmind.com/blog/agents-imagine-and-plan/](https://deepmind.com/blog/agents-imagine-and-plan/)
   + [http://bair.berkeley.edu/blog/2018/04/26/tdm/](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
