@@ -55,7 +55,7 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 
 ### Online article
 * Deep Reinforcement Learning
-  + [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](karpathy.github.io/2016/05/31/rl/)
+  + [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
 * Model-based Reinforcement Learning
   + [https://deepmind.com/blog/agents-imagine-and-plan/](https://deepmind.com/blog/agents-imagine-and-plan/)
   + [http://bair.berkeley.edu/blog/2018/04/26/tdm/](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
