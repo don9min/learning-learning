@@ -32,6 +32,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 * Gaussian Processes
   + [http://efavdb.com/gaussian-processes/](http://efavdb.com/gaussian-processes/#mjx-eqn-posterior)
   + [http://bridg.land/posts/gaussian-processes-1](http://bridg.land/posts/gaussian-processes-1)
+* Recurrent Neural Network (RNN)
+  + [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
   
 ## Reinforcement Learning
 
