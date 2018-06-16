@@ -60,6 +60,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 ### Online article
 * Policy Gradient
   + [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
+* TRPO
+  + [https://www.groundai.com/project/trust-region-policy-optimization/](https://www.groundai.com/project/trust-region-policy-optimization/)
 * Model-based Reinforcement Learning
   + [https://deepmind.com/blog/agents-imagine-and-plan/](https://deepmind.com/blog/agents-imagine-and-plan/)
   + [http://bair.berkeley.edu/blog/2018/04/26/tdm/](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
