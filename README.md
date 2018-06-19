@@ -20,6 +20,9 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 
 * Carl Edward Rasmussen video lecture
   + [Bayesian inference and Gaussian processes](http://videolectures.net/mlss07_rasmussen_bigp/?q=bayesian)
+  
+* Michael Zibulevsky video lecture
+  + [Introduction to Optimizationand Deep Learning](https://sites.google.com/site/michaelzibulevsky/optimization-course/)
 
 ### Online book
 * David MacKay, *Information Theory, Inference, and Learning Algorithms*: [[link]](http://www.inference.org.uk/itila/)
