@@ -65,6 +65,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
   + [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
 * TRPO
   + [https://www.groundai.com/project/trust-region-policy-optimization/](https://www.groundai.com/project/trust-region-policy-optimization/)
+* Proximal Policy Optimization (PPO)
+  + [http://blog.varunajayasiri.com/ml/ppo.html](http://blog.varunajayasiri.com/ml/ppo.html)
 * Model-based Reinforcement Learning
   + [https://deepmind.com/blog/agents-imagine-and-plan/](https://deepmind.com/blog/agents-imagine-and-plan/)
   + [http://bair.berkeley.edu/blog/2018/04/26/tdm/](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
