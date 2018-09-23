@@ -23,6 +23,10 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
   
 * Michael Zibulevsky video lecture
   + [Introduction to Optimizationand Deep Learning](https://sites.google.com/site/michaelzibulevsky/optimization-course/)
+  
+* Autoencoder
+  + [오토인코더의 모든 것](https://d2.naver.com/news/0956269)
+  + [Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder](https://www.youtube.com/watch?v=uaaqyVS9-rM&index=12&t=11s&list=WL)
 
 ### Online book
 * David MacKay, *Information Theory, Inference, and Learning Algorithms*: [[link]](http://www.inference.org.uk/itila/)
