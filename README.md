@@ -65,6 +65,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 * Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction*: [[link]](http://incompleteideas.net/book/the-book-2nd.html)
 
 ### Online article
+* OpenAI Spinning Up
+  + [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 * Policy Gradient
   + [Deep Reinforcement Learning: Pong from Pixels by Andrej Karpathy](http://karpathy.github.io/2016/05/31/rl/)
 * TRPO
