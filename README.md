@@ -82,3 +82,8 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 * [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 * [Teaching a machine to master car racing and fireball avoidance through “World Models”](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
 
+## Optimization Theory
+
+### Online video lectures
+* Convex Optimization
+  + [CMU 2018 lecture by Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/convexopt/)
