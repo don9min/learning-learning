@@ -54,10 +54,13 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
   + [TRPO (Trust Region Policy Optimization) : In depth Research Paper Review](https://www.youtube.com/watch?v=CKaN5PgkSBc)
 * David Silver's lecture
   + [Tutorial: Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning/?q=reinforcement%20learning)
+  + [DeepMind RL Lecture](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 * UC Berkeley CS 294: Deep Reinforcement Learning
   + [http://rll.berkeley.edu/deeprlcourse/](http://rll.berkeley.edu/deeprlcourse/)
 * Deep RL Bootcamp, Berkeley CA, 26-27 August 2017
   + [https://sites.google.com/view/deep-rl-bootcamp/lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+* Pang-Yo Lab
+  + [RL Lecture in Korean based on David Silver's DeepMind Lecture](https://www.youtube.com/channel/UCwkGvF7xKz2E0Lv-fZ9wv2g/featured) 
 * Columbia University IEOR 8100: Reinforcement Learning by Shipra Agrawal (not video, but useful)
   + [https://ieor8100.github.io/rl/](https://ieor8100.github.io/rl/)
 
