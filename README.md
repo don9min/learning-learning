@@ -68,7 +68,7 @@ Valuable Resources for machine learning, deep learning, reinforcement learning, 
 * Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction*: [[link]](http://incompleteideas.net/book/the-book-2nd.html)
 * Dimitri P. Bertsekas, *REINFORCEMENT LEARNING AND OPTIMAL CONTROL*: [[link]](http://web.mit.edu/dimitrib/www/RLbook.html)
   + Also many lecture videos and slides are available.
-*  Miguel Morales, *Grokking Deep Reinforcement Learning*: [[link]](https://www.manning.com/books/grokking-deep-reinforcement-learning?gclid=CjwKCAjw0qOIBhBhEiwAyvVcf3KvWvuAcuUPzDf7B-vMYXMNc01xNx91aaNfRx4Vs1EfB8j61AGVFxoCP0cQAvD_BwE#toc)
+* Miguel Morales, *Grokking Deep Reinforcement Learning*: [[link]](https://www.manning.com/books/grokking-deep-reinforcement-learning?gclid=CjwKCAjw0qOIBhBhEiwAyvVcf3KvWvuAcuUPzDf7B-vMYXMNc01xNx91aaNfRx4Vs1EfB8j61AGVFxoCP0cQAvD_BwE#toc)
   + Can see the entire book for free by clicking the table of contents
 
 ### Online article
